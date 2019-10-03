@@ -13,8 +13,14 @@ public class iwaya extends Actor
      * the 'Act' or 'Run' button gets pressed in the environment.
      */
     public void act() 
+<<<<<<< HEAD
     {if( Greenfoot.isKeyDown( "right" ) ){
         setRotation(0);
+=======
+    {
+        if( Greenfoot.isKeyDown( "down" ) ){
+        setRotation(90);
+>>>>>>> 5983c6319ab277bb8de3f9ad3920f40d64ad22e4
         move(1);
 }
     }    
