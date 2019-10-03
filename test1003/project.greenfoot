@@ -1,9 +1,25 @@
 #Greenfoot project file
+<<<<<<< HEAD
 class.B.image=wombat.png
+=======
+<<<<<<< HEAD
+class.MyWorld.image=orange.png
+class.iwaya.image=cherries.png
+>>>>>>> 98265a8bb5fc8e131e4b02ea5c05971cec8fd2e0
 editor.fx.0.height=0
 editor.fx.0.width=0
 editor.fx.0.x=0
 editor.fx.0.y=0
+<<<<<<< HEAD
+=======
+=======
+class.CCC.image=ppl3.png
+editor.fx.0.height=739
+editor.fx.0.width=816
+editor.fx.0.x=552
+editor.fx.0.y=100
+>>>>>>> 62b9cc883682baa7fac83166f9ff3c4053a07ede
+>>>>>>> 98265a8bb5fc8e131e4b02ea5c05971cec8fd2e0
 height=585
 package.numDependencies=0
 package.numTargets=2
@@ -22,7 +38,15 @@ readme.x=10
 readme.y=10
 simulation.speed=50
 target1.height=50
+<<<<<<< HEAD
 target1.name=B
+=======
+<<<<<<< HEAD
+target1.name=iwaya
+=======
+target1.name=CCC
+>>>>>>> 62b9cc883682baa7fac83166f9ff3c4053a07ede
+>>>>>>> 98265a8bb5fc8e131e4b02ea5c05971cec8fd2e0
 target1.showInterface=false
 target1.type=ClassTarget
 target1.width=80
@@ -38,5 +62,15 @@ target2.y=0
 version=3.0.0
 width=825
 world.lastInstantiated=MyWorld
+<<<<<<< HEAD
 xPosition=31
 yPosition=11
+=======
+<<<<<<< HEAD
+xPosition=87
+yPosition=103
+=======
+xPosition=561
+yPosition=327
+>>>>>>> 62b9cc883682baa7fac83166f9ff3c4053a07ede
+>>>>>>> 98265a8bb5fc8e131e4b02ea5c05971cec8fd2e0
