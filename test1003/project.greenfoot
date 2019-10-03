@@ -5,8 +5,13 @@ class.MyWorld.image=orange.png
 class.iwaya.image=cherries.png
 editor.fx.0.height=739
 editor.fx.0.width=816
+<<<<<<< HEAD
 editor.fx.0.x=552
 editor.fx.0.y=100
+=======
+editor.fx.0.x=40
+editor.fx.0.y=79
+>>>>>>> e39c6653b39750a3bb36671ca7c2ca2848bae9b0
 height=585
 package.numDependencies=0
 package.numTargets=4
@@ -55,5 +60,10 @@ target4.y=0
 version=3.0.0
 width=825
 world.lastInstantiated=MyWorld
+<<<<<<< HEAD
 xPosition=169
 yPosition=116
+=======
+xPosition=22
+yPosition=25
+>>>>>>> e39c6653b39750a3bb36671ca7c2ca2848bae9b0
