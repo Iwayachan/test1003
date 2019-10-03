@@ -14,6 +14,10 @@ public class iwaya extends Actor
      */
     public void act() 
     {
+        if( Greenfoot.isKeyDown( "up" ) ){
+        setRotation(-90);
+        move(1);
+}
         // Add your action code here.
     }    
 }
